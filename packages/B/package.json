@@ -10,8 +10,6 @@
   "author": "Brian Di Palma <offler@gmail.com> (https://github.com/briandipalma)",
   "license": "ISC",
   "dependencies": {
-    "A": "file:../A",
-    "C": "file:../C",
-    "D": "file:../D"
+    "A": "file:../A"
   }
 }
