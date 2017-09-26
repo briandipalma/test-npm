@@ -1,0 +1,17 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brian Di Palma <offler@gmail.com> (https://github.com/briandipalma)",
+  "license": "ISC",
+  "dependencies": {
+    "B": "file:../B",
+    "C": "file:../C",
+    "D": "file:../D"
+  }
+}
